@@ -1,0 +1,351 @@
+body {
+    background-image: radial-gradient(circle, #010E1f, #031d41);
+  }
+
+img{ 
+  position:absolute;
+  top: 200px; 
+  left: 150px;
+}
+
+#titleOne {
+position:absolute; 
+top: 209px;
+left: 360px;
+
+}
+
+#FBLA {
+position:absolute;
+top: 225px;
+left: 350px;
+
+}
+
+#joinUs {
+position:absolute;
+top:300px;
+left: 415px;
+background: #131a3d;
+color: white;
+
+}
+
+#whyFBLA {
+position:absolute;
+  top:300px;
+  left: 600px;
+  background: #131a3d;
+  color: white;  
+
+}
+
+#arkansasLogo{
+  width: 200px;
+  height:auto
+}
+
+.thumbnail:hover {
+  transform: scale(1.1);
+  }
+
+#googleForm{
+    width: 304px;
+    margin: 0 auto;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  #googleForm {
+    /*margin-left: auto;/*
+    /*margin-right: auto;*/
+    text-align: center;
+  }
+
+  #joinHome {
+   position:absolute;
+  top:50px;
+  left: 420px;
+  background: #202b63;
+  color: white;  
+
+}
+
+#joinAbout {
+ position:absolute;
+ top:50px;
+ left: 600px;
+ background: #202b63;
+ color: white;  
+
+}
+
+#joinContact {
+  position:absolute;
+  top:50px;
+  left: 775px;
+  background: #202b63;
+  color: white;
+
+}
+
+
+#boxAboutUs {
+  width: relative;
+  height: 150px;
+  background:#282f52 
+}
+
+#bigBoxAboutUs {
+background:rgb(223, 223, 223);
+position:absolute;
+top: 160px;
+left: 650px;
+width: 550px;
+height: 450px;
+Border-style: solid
+}
+
+#presidentVideoBox {
+  background:rgb(223, 223, 223);
+  position:absolute;
+  top: 160px;
+  left: 50px;
+  width: 550px;
+  height: 450px;
+  Border-style: solid
+}
+
+
+  
+
+#aboutJoin {
+  position:absolute;
+  top:130px;
+  left: 600px;
+  background: #202b63;
+  color: white;
+
+}
+
+#aboutContact {
+  position:absolute;
+  top: 130px;
+  left: 775px;
+  background: #202b63;
+  color: white;
+}
+
+#aboutHome {
+  position:absolute;
+  top:130px;
+  left: 400px;
+  background: #202b63;
+  color: white;
+}
+
+#ABFBLA {
+  position:absolute;
+  top: 35;
+  left: 455px;
+}
+
+#contactUsBox
+{
+  position:absolute;
+  top: 50px;
+  left: 500px;
+  width: 200px;
+  height: 200px;
+  background: grey;
+  color:white
+
+}
+
+#indexHeadBox {
+  position:absolute;
+  top: 0px;
+  left: 0px;
+  background:rgb(184, 184, 184);
+  width: 1900px;
+  height: 35px;
+  margin: none;
+  }
+  
+  #smallARLogo {
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ width: 72px;
+ height: auto;;
+ margin: none;
+  }
+
+  #indexContact { 
+    position: absolute;
+    top: -10px;
+    left:1000px;
+
+  }
+
+  #indexAbout { 
+    position: absolute;
+    top: -10px;
+    left:1100px;
+
+  }
+
+  #joinButtonIndex {
+    position:absolute;
+    top: 8px;
+    left: 1180px;
+    background: rgb(219, 219, 183);
+    color: black;
+
+  }
+
+  #about-Home {
+    position: absolute;
+    top: -10px;
+    left:1100px;
+  
+}
+
+#joinHome {
+  position:absolute;
+  top: 8px;
+  left: 1180px;
+  color:black;
+ background-color: rgb(219,219,183);
+}
+
+#contactHome {
+  position: absolute;
+  top: -10px;
+  left:1000px;
+
+}
+
+#circle {
+  background: #01283880;
+    border-radius: 50%;
+    position:absolute;
+    top: 385px;
+    left: 400px;
+    width: 400px;
+    height: 400px;
+}
+
+#circle2 {
+  background: #0533463d;
+  border-radius: 50%;
+  position:absolute;
+  top: 185px;
+  left: 900px;
+  width: 300px;
+  height: 300px;
+}
+
+#circle3 {
+ background:  #0957793d;
+  border-radius: 50%;
+  position:absolute;
+  top: 25px;
+  left: 25px;
+  width: 250px;
+  height: 250px;
+  z-index: -999;
+}
+
+#circle4 {
+  background:  #1d769c2a;
+  border-radius: 50%;
+  position:absolute;
+  top: -100px;
+  left: 600px;
+  width: 250px;
+  height: 250px;
+  z-index: -999;
+
+}
+#SUCCESSbackground {
+color: rgba(241, 235, 235, 0.336);
+position:absolute;
+font-family: "Quintessential";
+top:375px;
+left: 370px;
+font-size: 50px;
+
+}
+
+#LEADERSHIPbackground {
+  color: rgba(241, 235, 235, 0.336);
+  position:absolute;
+  font-family: "Quintessential";
+  top:450px;
+  left: 660px;
+  font-size: 50px;
+  
+  }
+
+#TECHNOLOGYbackground {
+  color: rgba(241, 235, 235, 0.336);
+  position:absolute;
+  font-family: "Quintessential";
+  top:300px;
+  left: 790px;
+  font-size: 45px;
+
+}
+
+#BUSINESSbackground {
+  color: rgba(241, 235, 235, 0.336);
+  position:absolute;
+  font-family: "Quintessential";
+  top:50px;
+  left: 700px;
+  font-size: 45px;
+}
+
+#LEADbackground {
+  color: rgba(241, 235, 235, 0.336);
+  position:absolute;
+  font-family: "Quintessential";
+  top:80px;
+  left: 200px;
+  font-size: 45px;
+
+
+}
+
+#contactBox {
+background: rgb(201, 200, 200);
+position:absolute;
+top: 80px;
+left: 400px;
+width: 500px;
+height: 500px;
+border-radius: 50px;
+border-color: rgb(94, 94, 94);
+
+}
+
+#Music {
+position:absolute;
+top: 550px;
+left: 10px;
+
+
+}
+
+#presidentVideo {
+  position:absolute;
+  top: 200px;
+  left: 120px;
+  width: 400px;
+  height: 370; }
